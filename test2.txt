@@ -1,1 +1,2 @@
 Hello from Smart Git Assistant
+hello
