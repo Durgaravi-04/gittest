@@ -4,4 +4,4 @@ Hello from Smart Git Assistant
 hello welcomr`q11`qAaq
 theththgit rev-parse --show-toplevel
 thw
-to check the code 
+to check the code  of 
