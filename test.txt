@@ -1,1 +1,2 @@
 Smart Git Assistant Test The
+ project 
